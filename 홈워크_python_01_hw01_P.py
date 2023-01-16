@@ -3,5 +3,3 @@ score = {
     'django': 89,
     'web': 83
 }
-
-
