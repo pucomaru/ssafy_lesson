@@ -3,3 +3,4 @@ score = {
     'django': 89,
     'web': 83
 }
+print(score)
