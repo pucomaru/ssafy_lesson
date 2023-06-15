@@ -1,7 +1,6 @@
-score = {
-    'python': 80,
-    'django': 89,
-    'web': 83
+info = {
+    name: '홍길동',
+    age: 20
 }
 
-print(score)
+print(info)
