@@ -4,6 +4,6 @@
 - 위 과정을 반드시 온라인 실습실에서 진행하지는 않아도 된다.
 - 필요하다면, local에서 repository를 clone 받아서 진행한다.
 '''
-word = 'Hello, World!!!!!'
+word = 'Hello, World!!!!!!!!'
 
 print(word)
